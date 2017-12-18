@@ -6,6 +6,8 @@
 //  Copyright © 2017 Михаил Мерзляков. All rights reserved.
 //
 
+//some kind of madness here
+
 import UIKit
 
 @UIApplicationMain
